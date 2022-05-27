@@ -7,3 +7,6 @@ Step 3: run- pip install plotly
              pip install numpy
              pip install dash_bootstrap_components
 Step 4: run python eda.py
+
+
+Link of the live project:- https://ritikacars.herokuapp.com/
