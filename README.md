@@ -1,5 +1,6 @@
 # automobio-car_analysis
-Step 1: Clone the Project.
+Steps to run the project on local machine
+Step 1: Download the zip file of the project.
 Step 2: Open the project folder in the terminal
 Step 3: install the packages(run the commands below)- 
              pip install plotly
