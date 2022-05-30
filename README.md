@@ -8,6 +8,7 @@ Step 3: install the packages(run the commands below)-
              pip install pandas
              pip install numpy
              pip install dash_bootstrap_components
+             pip install flask
 Step 4: run python eda.py
 
 
